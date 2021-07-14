@@ -7,7 +7,8 @@ from src.file_verification import file_verification
 
 
 # Le token de votre Bot Discord:
-token = "Nzk3MTQwMTE4NzExNjk3NDA4.X_iIlg.DmXM9K7lYcMqmXvgDYN_WpLCu-8"
+
+
 
 # Les mots bannis dans les fichiers envoyés, par défaut 'token':
 key = "token"
